@@ -27,3 +27,16 @@ Go to `localhost:port/admin` to sign in. Default credentials: `login: admin` `pa
 You will be directed to the main admin panel.
 
 ![Screenshot](screenshots/img1.png)
+![Screenshot](screenshots/img2.png)
+![Screenshot](screenshots/img3.png)
+![Screenshot](screenshots/img4.png)
+![Screenshot](screenshots/img5.png)
+![Screenshot](screenshots/img6.png)
+![Screenshot](screenshots/img7.png)
+![Screenshot](screenshots/img8.png)
+![Screenshot](screenshots/img9.png)
+![Screenshot](screenshots/img10.png)
+![Screenshot](screenshots/img11.png)
+![Screenshot](screenshots/img12.png)
+![Screenshot](screenshots/img13.png)
+

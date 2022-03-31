@@ -26,4 +26,4 @@ The default view at `localhost:port` is the client panel.
 Go to `localhost:port/admin` to sign in. Default credentials: `login: admin` `password: admin`.
 You will be directed to the main admin panel.
 
-![alt text](https://github.com/Leskyyy/Hotel_Management_App/screenshots/img1.png?raw=true)
+![Screenshot](screenshots/img1.png)

@@ -13,6 +13,7 @@ Run the project from the /src/frontend directory:
 # Running the backend
 
 Run the Java project (SpringVueApplication class) using the IDE of choice (for now).
+You need to have MySQL server running, with the database name "hotel_db" using the database creation script provided in the files. 
 
 # Usage
 
